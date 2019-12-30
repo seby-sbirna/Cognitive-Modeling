@@ -7,11 +7,11 @@ Theories of cognition, seen from an information-processing perspective, have bee
 
 By using knowledge from the field of _Cognitive Science_, _Neuroscience_ and _IT technologies_, we are able to ___summarize different brain processes in a mathematical or computational form___. Within these projects, we have focused on:
 
-#### • Bayesian Models of visual perception <br>
-#### • Face perception modeling <br>
-#### • Signal detection theory <br>
-#### • PCA/ICA for edge detection and dimensionality reduction <br>
-#### • Psychometric functions <br>
-#### • Psychophysics <br>
+__• Bayesian Models of visual perception__ <br>
+__• Face perception modeling__ <br>
+__• Signal detection theory__ <br>
+__• PCA/ICA for edge detection and dimensionality reduction__ <br>
+__• Psychometric functions__ <br>
+__• Psychophysics__ <br>
 
 ---
